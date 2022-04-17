@@ -21,7 +21,8 @@
 
 
 Задание*:
-1)1) Отправить http запрос на сервер.
+
+1) Отправить http запрос на сервер.
 http://162.55.220.72:5005/terminal-hw-request
 
 curl http://162.55.220.72:5005/terminal-hw-request
@@ -38,12 +39,3 @@ mkdir p_1 p_2 p_3
 ls
 cd ..
 mv papka_1/file_1.txt papka_1/file_2.txt papka_2/
-
-
-
-
-
-
-
-
-
